@@ -1,9 +1,9 @@
 /*
- * Please do not delete the lines below
- * YOUTUBE:   3DPrintAZ
- * sourcecode: Robot 2 modes: follow objects and avoid objects
-  */
-  
+ *  Please do not delete the lines below
+ *  my site: https://TAD3dprinted.com
+ */
+
+
 #include <Servo.h>
 #include <EEPROM.h>
 
